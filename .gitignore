@@ -1,0 +1,6 @@
+node_modules
+notes-api-webserver.pem
+
+git add .
+git commit -m "initial commit"
+
